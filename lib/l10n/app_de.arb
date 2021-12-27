@@ -1,0 +1,17 @@
+{
+    "games":"Spiele",
+    "home":"Heim",
+    "filters":"Filter",
+    "favourites":"Favoritinnen",
+    "language":"Sprache",
+    "theme":"Thema",
+    "selectLang":"Passen Sie Ihre Sprachauswahl an",
+    "systemTheme":"Systemthema",
+    "darkTheme":"Dunkles Thema",
+    "lightTheme":"Lichtthema",
+    "selectGame":"Passen Sie Ihre Spielauswahl an",
+    "category":"Kategorie",
+    "platform":"Plattform",
+    "sortBy":"Sortiere nach",
+    "save":"Speichern"
+}

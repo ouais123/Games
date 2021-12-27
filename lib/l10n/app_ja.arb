@@ -1,0 +1,17 @@
+{
+    "games":"ゲーム",
+    "home":"家",
+    "filters":"フィルタ",
+    "favourites":"お気に入り",
+    "language":"言語",
+    "theme":"テーマ",
+    "selectLang":"言語の選択を調整する",
+    "systemTheme":"システムテーマ",
+    "darkTheme":"暗いテーマ",
+    "lightTheme":"軽いテーマ",
+    "selectGame":"ゲームの選択を調整する",
+    "category":"Category",
+    "platform":"プラットホーム",
+    "sortBy":"並び替え",
+    "save":"保存する"
+}

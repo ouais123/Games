@@ -1,0 +1,17 @@
+{
+    "games":"الألعاب",
+    "home":"الرئيسية",
+    "filters":"اختيار",
+    "favourites":"المفضلة",
+    "language":"لغة",
+    "theme":"مظهر",
+    "selectLang":"اضبط اختيارك للغة",
+    "systemTheme":"مظهر حسب الجهاز",
+    "darkTheme":"مظهر الداكن",
+    "lightTheme":"مظهر أبيض",
+    "selectGame":"اضبط اختيارك للعبة",
+    "category":"الفئة",
+    "platform":"منصة",
+    "sortBy":"ترتيب حسب",
+    "save":"حفظ"
+}
